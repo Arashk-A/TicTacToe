@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="restart">Restart</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="tile9">tile9</string>
+    <string name="tile8">tile8</string>
+    <string name="tile7">tile7</string>
+    <string name="tile6">tile6</string>
+    <string name="tile5">tile5</string>
+    <string name="tile4">tile4</string>
+    <string name="tile3">tile3</string>
+    <string name="tile2">tile2</string>
+    <string name="tile1">tile1</string>
+</resources>
